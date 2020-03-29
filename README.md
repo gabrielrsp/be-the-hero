@@ -5,13 +5,17 @@ Here you have, the full-stack project (made in ReactJS, NodeJS and React Native)
 
 ## Run Backend
 npm install
+
 npm start
 
 ## Run Frontend
 yarn install
+
 yarn start
 
 ## Run Mobile with Expo
 install expo in your mobile
+
 run "expo" start in your computer 
+
 scan the QR code with your mobile camera
