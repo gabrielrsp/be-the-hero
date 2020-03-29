@@ -4,16 +4,24 @@ Here you have, the full-stack project (made in ReactJS, NodeJS and React Native)
 
 
 ## Run Backend
+
+in backend folder:
+
 npm install
 
 npm start
 
 ## Run Frontend
+in frontend folder:
+
 yarn install
 
 yarn start
 
 ## Run Mobile with Expo
+
+in mobile folder:
+
 install expo in your mobile
 
 run "expo" start in your computer 
